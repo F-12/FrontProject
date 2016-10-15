@@ -1,1 +1,5 @@
-console.log('hello world');
+
+$('#dialog').on('click', () => {
+    $('#myModal').modal('show');
+}
+);
