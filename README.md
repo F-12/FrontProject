@@ -1,5 +1,10 @@
 # usage
 
+克隆仓库
+```
+git clone git@github.com:F-12/FrontProject.git
+```
+
 安装依赖
 ```
 npm install
