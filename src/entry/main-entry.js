@@ -1,5 +1,5 @@
 
-$('#dialog').on('click', () => {
+$('#dialog button:first-child').on('click', () => {
     $('#myModal').modal('show');
 }
 );
